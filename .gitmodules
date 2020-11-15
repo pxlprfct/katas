@@ -1,3 +1,6 @@
 [submodule "katas/calculator"]
 	path = katas/calculator
 	url = git@github.com:pxlprfct/calculator.git
+[submodule "katas/integer-to-roman-numerals"]
+	path = katas/integer-to-roman-numerals
+	url = git@github.com:pxlprfct/integer-to-roman-numerals.git
