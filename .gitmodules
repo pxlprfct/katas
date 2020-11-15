@@ -1,0 +1,3 @@
+[submodule "katas/calculator"]
+	path = katas/calculator
+	url = git@github.com:pxlprfct/calculator.git
