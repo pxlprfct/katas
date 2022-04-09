@@ -1,6 +1,6 @@
 # Katas
 
-A monorepo containing some of the Katas I've worked on.
+A monorepo containing some of the Katas I've worked on - mostly shared as a learning tool for others - rather than being examples of perfect solves.
 
 ## What is a Kata?
 [codekata](http://codekata.com/) describes Katas as:
