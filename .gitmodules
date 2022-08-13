@@ -10,3 +10,6 @@
 	path = katas/tic-tac-toe
 	url = git@github.com:pxlprfct/tic-tac-toe.git
 	branch = main
+[submodule "katas/temperature-sensor-problem"]
+	path = katas/temperature-sensor-problem
+	url = https://github.com/pxlprfct/temperature-sensor-problem
