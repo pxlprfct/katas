@@ -13,3 +13,6 @@
 [submodule "katas/temperature-sensor-problem"]
 	path = katas/temperature-sensor-problem
 	url = https://github.com/pxlprfct/temperature-sensor-problem
+[submodule "katas/component-refactor"]
+	path = katas/component-refactor
+	url = https://github.com/pxlprfct/component-refactor
