@@ -1,21 +1,24 @@
 [submodule "katas/calculator"]
 	path = katas/calculator
-	url = git@github.com:pxlprfct/calculator.git
+	url = https://github.com/pxlprfct/calculator
 	branch = main
 [submodule "katas/integer-to-roman-numerals"]
 	path = katas/integer-to-roman-numerals
-	url = git@github.com:pxlprfct/integer-to-roman-numerals.git
+	url = https://github.com/pxlprfct/integer-to-roman-numerals
 	branch = main
 [submodule "katas/tic-tac-toe"]
 	path = katas/tic-tac-toe
-	url = git@github.com:pxlprfct/tic-tac-toe.git
+	url = https://github.com/pxlprfct/tic-tac-toe
 	branch = main
 [submodule "katas/temperature-sensor-problem"]
 	path = katas/temperature-sensor-problem
 	url = https://github.com/pxlprfct/temperature-sensor-problem
+	branch = main
 [submodule "katas/component-refactor"]
 	path = katas/component-refactor
 	url = https://github.com/pxlprfct/component-refactor
+	branch = main
 [submodule "katas/algorithms"]
 	path = katas/algorithms
 	url = https://github.com/pxlprfct/algorithms
+	branch = main
