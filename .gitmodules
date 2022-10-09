@@ -16,6 +16,6 @@
 [submodule "katas/component-refactor"]
 	path = katas/component-refactor
 	url = https://github.com/pxlprfct/component-refactor
-[submodule "algorithms"]
-	path = algorithms
+[submodule "katas/algorithms"]
+	path = katas/algorithms
 	url = https://github.com/pxlprfct/algorithms
